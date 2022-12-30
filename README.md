@@ -1,6 +1,8 @@
-**[antfu.me](https://antfu.me)**
+**[kitiho.com](https://kitiho.com)**
 
 my personal website powered by [Vite](https://vitejs.dev/)
+
+based on [antfu.me](https://antfu.me)
 
 <br>
 
