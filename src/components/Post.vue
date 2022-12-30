@@ -84,8 +84,6 @@ onMounted(() => {
     <slot />
   </article>
   <div v-if="route.path !== '/'" class="prose m-auto mt-8 mb-8">
-    <a v-if="frontmatter.duration" :href="tweetUrl" target="_blank" op50>comment on twitter</a>
-    <br>
     <router-link
       :to="route.path.split('/').slice(0, -1).join('/') || '/'"
       class="font-mono no-underline opacity-50 hover:opacity-75"
