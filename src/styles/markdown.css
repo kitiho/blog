@@ -16,10 +16,11 @@
 }
 
 .shiki-light {
-  background: #f8f8f8 !important;
+  background: rgba(248, 248, 248, 0.2) !important;
 }
+
 .shiki-dark {
-  background: #0e0e0e !important;
+  background: rgba(14,14,14,0.2) !important;
 }
 
 html.dark .shiki-light {
@@ -114,11 +115,11 @@ h6:focus .header-anchor {
   opacity: 0.8;
 }
 
-.prose blockquote > :first-child {
+.prose blockquote> :first-child {
   margin-top: 0;
 }
 
-.prose blockquote > :last-child {
+.prose blockquote> :last-child {
   margin-bottom: 0;
 }
 
@@ -155,10 +156,10 @@ h6:focus .header-anchor {
   opacity: 0.5;
 }
 
-.table-of-contents ul > li::before {
+.table-of-contents ul>li::before {
   display: none;
 }
 
-.table-of-contents ul > li {
+.table-of-contents ul>li {
   padding-left: 0.8rem;
 }

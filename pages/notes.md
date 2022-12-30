@@ -3,6 +3,7 @@ title: Notes - Anthony Fu
 display: Notes
 subtitle: 一些代码片段,笔记
 description: 一些代码片段,笔记
+lineWave: true
 ---
 
 <article>
