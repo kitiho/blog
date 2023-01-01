@@ -17,8 +17,8 @@ import UnoCSS from 'unocss/vite'
 import SVG from 'vite-svg-loader'
 // @ts-expect-error missing types
 import TOC from 'markdown-it-table-of-contents'
+import { nodePolyfills } from 'vite-plugin-node-polyfills'
 import { slugify } from './scripts/slugify'
-
 export default defineConfig({
   resolve: {
     alias: [
@@ -126,6 +126,10 @@ export default defineConfig({
     SVG({
       svgo: false,
       defaultImport: 'url',
+    }),
+    nodePolyfills({
+      // Whether to polyfill `node:` protocol imports.
+      protocolImports: true,
     }),
   ],
 

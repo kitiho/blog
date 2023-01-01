@@ -3,8 +3,9 @@ title: Vite Build Optimize
 date: 2022-12-30T15:05:48.966Z
 lang: zh
 duration: 6min
-image: 'https://antfu.me/images/a-paris-1.jpg'
 ---
+
+[[toc]]
 
 ## 视图分析 Visualizer
 
