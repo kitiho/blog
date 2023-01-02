@@ -1,14 +1,12 @@
 <script setup lang="ts">
-import Kuroshiro from 'kuroshiro'
+import { hasKanji } from '~/logics/japaneseUtil'
 import { useAnnotation } from '~/logics/useAnnotation'
 
 const props = defineProps<{
   sentence: string
   bg: string
 }>()
-function hasKanji(str: string): boolean {
-  return Kuroshiro.Util.hasKanji(str)
-}
+
 const { data, isFinished } = useAnnotation(props.sentence)
 const html = computed(() => data.value?.[0])
 </script>
