@@ -24,6 +24,17 @@ japanese:
     - name: '夢とうつつ'
       interpretation: '夢とも現実とも区別がつかない状態。また、ぼんやりしている状態。'
       exampleSentence: '「仕事中につい―してしまった」'
+  そのうちおれも知恵がつく:
+    - name: '知恵がつく'
+      interpretation: '成長するに従って子供に知恵が備わってくる。'
+      exampleSentence: ''
+  小人が枕元をうろうろしているといつまでも思わない。:
+    - name: '枕元'
+      interpretation: '寝ている人の枕のあたり。'
+      exampleSentence: ''
+    - name: 'うろうろ'
+      interpretation: 'あてもなくあちこち歩き回るさま。'
+      exampleSentence: ''
       
 ---
 
