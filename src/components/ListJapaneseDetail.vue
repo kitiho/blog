@@ -6,7 +6,7 @@ const props = defineProps<{
   sentence: string
   bg: string
 }>()
-function hasKanji(str: string) {
+function hasKanji(str: string): boolean {
   return Kuroshiro.Util.hasKanji(str)
 }
 const { data, isFinished } = useAnnotation(props.sentence)
