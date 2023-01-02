@@ -1,4 +1,4 @@
-import kuromoji from '../src/index.js'
+import kuromoji from './kuromoji/index.js'
 /**
  * Kuromoji based morphological analyzer for kuroshiro
  */

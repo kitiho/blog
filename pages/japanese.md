@@ -9,18 +9,21 @@ japanese:
       interpretation: '眠けを催して浅い眠りに落ちるさま。'
       exampleSentence: '仕事中についうとうとしてしまった。'
     - name: '上らへん'
-      interpretation: '「ここらへん」、「どこらへん」'
+      interpretation: ''
+      exampleSentence: '「ここらへん」、「どこらへん」'
     - name: '鼓笛隊'
+      interpretation: ''
+      exampleSentence: ''
   「しゃんしゃかしゃんしゃか」と音を立てて何かが通っていくのを、夢とうつつの間で聞いている。:
     - name: 'しゃんしゃかしゃんしゃか'
       interpretation: ''
       exampleSentence: ''
     - name: '音を立て'
-      interpretation: ''
+      interpretation: '音声・音響を発生させる、特に、静かな場所乃至静かであるべき場所において、音を出すこと。'
       exampleSentence: ''
-    - name: '夢とうつつの間'
-      interpretation: ''
-      exampleSentence: ''
+    - name: '夢とうつつ'
+      interpretation: '夢とも現実とも区別がつかない状態。また、ぼんやりしている状態。'
+      exampleSentence: '「仕事中につい―してしまった」'
       
 ---
 
