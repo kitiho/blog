@@ -7,10 +7,10 @@ const props = defineProps<{ japanese: Record<string, any[]> }>()
 </script>
 
 <template>
-  <template v-for="title in shuffle(Object.keys(japanese))" :key="title">
+  <template v-for="title in Object.keys(japanese).reverse()" :key="title">
     <ListJapaneseTitle :title="title" :words="japanese[title].map(v => v.name)" />
     <div class="py-2 -mx-3">
-      <div v-for="item, idx in shuffle(japanese[title])" :key="idx" mb-1em>
+      <div v-for="item, idx in japanese[title]" :key="idx" mb-1em>
         <h3 mt="!0" border-b="2px solid #dddddd">
           {{ item.name }}
         </h3>
