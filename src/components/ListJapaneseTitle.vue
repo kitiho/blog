@@ -12,12 +12,15 @@ const addSignStr = computed(() => {
   })
   return str
 })
-const { data } = useAnnotation(addSignStr.value)
+const { data, isFinished } = useAnnotation(addSignStr.value)
 const html = computed(() => data.value?.[0])
 </script>
 
 <template>
-  <h2 v-html="html" />
+  <h2 v-if="html && isFinished" v-html="html" />
+  <div v-if="!isFinished" w-full flex="~" justify="center" pt="1em">
+    <Loading dark:text="white 20px" text="40px gray-900" />
+  </div>
 </template>
 
 <style scoped>
