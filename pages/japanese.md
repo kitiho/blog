@@ -299,6 +299,10 @@ japanese:
     - name: '皆目'
       interpretation: ' あとに打消しの語を伴って、強く否定する気持ちを表す。まるっきり。全然。'
       exampleSentence: '「―見当がつかない」'
+  訝しそうにハイそうですと答えた:
+    - name: '訝しそう'
+      interpretation: ' 物事が不明であることを怪しく思うさま。疑わしい。'
+      exampleSentence: '「―・そうな目つき」'
 
 
 ---

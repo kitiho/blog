@@ -9,7 +9,8 @@ import { isDark } from '~/logics'
       to="/"
       focusable="false"
     >
-      <Logo text="40px gray-900" dark:text-gray-1 />
+      <!-- <Logo text="40px gray-900" dark:text-gray-1 /> -->
+      <Logo2 text="50px gray-900" dark:text-gray-1 />
     </router-link>
     <nav class="nav">
       <div class="spacer" />
