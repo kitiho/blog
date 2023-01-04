@@ -274,6 +274,31 @@ japanese:
     - name: 'しょっぱな'
       interpretation: '【初っ端】物事のはじめ。最初。'
       exampleSentence: ''
+  曲りになりにも、おれはこのクラスを担任することになったのだ。:
+    - name: '曲りになりにも'
+      interpretation: '不完全ながら。どうにかこうにか。'
+      exampleSentence: '曲がりなりにも芸術家です。'
+  厚い黒表紙の出席簿を開くと、細かい字で名前がぎっしり並んでいた。:
+    - name: '表紙'
+      interpretation: ' 書籍や帳簿の中身を保護し、内容表示・装飾などをするために取り付けられた厚紙・革・布などの外装の部分。'
+      exampleSentence: ''
+    - name: 'ぎっしり'
+      interpretation: 'すきまなく詰まっているさま。ぎっちり。'
+      exampleSentence: '来週は予定がぎっしり詰まっている.'
+  右の列のいちばん手前から順に自己紹介をするよう伝え、教卓の内側から丸イスを引っ張り出して座った。:
+    - name: '手前'
+      interpretation: '自分の目の前。自分のもと。'
+      exampleSentence: '「―にある本を取る」'
+    - name: '引っ張り出して'
+      interpretation: ' 引っ張って出す。'
+      exampleSentence: '「中身を―・す」'
+  もっとも、二日前奈良にやってきたばかりのおれは、八木だ、富雄だ、五位堂だと地名を並べられたところで、皆目さっぱりわからなかったのだけれども。:
+    - name: 'もっとも'
+      interpretation: '道理にかなっていること。なるほどその通りだと思われること。また、そのさま。当然。'
+      exampleSentence: '「―な言い分」「いやがるのも―なことだ」'
+    - name: '皆目'
+      interpretation: ' あとに打消しの語を伴って、強く否定する気持ちを表す。まるっきり。全然。'
+      exampleSentence: '「―見当がつかない」'
 
 
 ---
