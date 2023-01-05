@@ -10,7 +10,10 @@ import { isDark } from '~/logics'
       focusable="false"
     >
       <!-- <Logo text="40px gray-900" dark:text-gray-1 /> -->
-      <Logo2 text="50px gray-900" dark:text-gray-1 />
+      <!-- <Logo2 text="50px gray-900" dark:text-gray-1 /> -->
+      <!-- <Logo3 text="50px gray-900" dark:text-gray-1 /> -->
+      <!-- <Logo4 text="50px gray-900" dark:text-gray-1 /> -->
+      <Logo5 text="50px gray-900" dark:text-gray-1 />
     </router-link>
     <nav class="nav">
       <div class="spacer" />

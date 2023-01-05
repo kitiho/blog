@@ -14,6 +14,9 @@ const props = defineProps<{ japanese: Record<string, any[]> }>()
         <h3 mt="!0" border-b="2px solid #dddddd">
           {{ item.name }}
         </h3>
+        <div v-if="item.zhcn" py="4px" border-rd="8px" dark:text="#dddddd" mb="1em" px="16px" bg="green/10">
+          {{ item.zhcn }}
+        </div>
         <ListJapaneseDetail :sentence="item.interpretation" bg="bg-blue/10" />
         <ListJapaneseDetail :sentence="item.exampleSentence" bg="bg-yellow/10" />
       </div>
