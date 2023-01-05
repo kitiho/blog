@@ -1,28 +1,57 @@
-<script setup lang="ts">
+<script lang="ts">
+import type { PropType, VNode } from 'vue'
+import { isJapanese } from '~/logics/japaneseUtil'
 import { useAnnotation } from '~/logics/useAnnotation'
+export default {
+  props: {
+    title: {
+      type: String,
+    },
+    words: {
+      type: Array as PropType<String[]>,
+      default: () => [],
+    },
+  },
+  emits: ['onMouseInWord', 'onMouseLeaveWord'],
+  setup(props, ctx) {
+    let str = props.title
+    props.words.forEach((word) => {
+      str = str!.replace(`${word}`, `<span>${word}</span>`)
+    })
+    const { data, isFinished } = useAnnotation(str!)
+    const html = computed(() => data.value?.[0])
+    const vnode = ref<VNode[]>([])
+    const domReg = /(?<=(<span[^>]*?>)).*?(?=(<\/span>))/g
+    const bracketReg = /\((.+?)\)/g
 
-const props = defineProps<{
-  title: string
-  words: string[]
-}>()
-const addSignStr = computed(() => {
-  let str = props.title
-  props.words.forEach((word: string) => {
-    str = str.replace(word, `<span class="bg-red/30">${word}</span>`)
-  })
-  return str
-})
-const { data, isFinished } = useAnnotation(addSignStr.value)
-const html = computed(() => data.value?.[0])
+    watch(() => html.value, (e) => {
+      const wordSpanArr = e.match(domReg).map((v: string) => {
+        return h('span', {
+          class: 'bg-red/30 underline cursor-pointer',
+          innerHTML: v,
+          onmouseenter: () => {
+            v = v.replace(bracketReg, '')
+            let res = ''
+            for (const char of v) {
+              if (isJapanese([char]))
+                res = res.concat(char)
+            }
+            ctx.emit('onMouseInWord', res)
+          },
+          onmouseleave: () => {
+            ctx.emit('onMouseLeaveWord')
+          },
+        })
+      })
+      const otherNodeArr = e.replace(domReg, '$').replaceAll('<span>$</span>', '$').split('$').map((v: string) => h('span', { innerHTML: v }))
+      otherNodeArr.forEach((v: VNode, index: number) => {
+        vnode.value.push(v)
+        if (wordSpanArr[index])
+          vnode.value.push(wordSpanArr[index])
+      })
+    })
+    return () => h('h2', { class: 'border-gray/30 border-b-4px pb-10px' }, ...vnode.value)
+  },
+}
 </script>
 
-<template>
-  <h2 v-if="html && isFinished" v-html="html" />
-  <div v-if="!isFinished" w-full flex="~" justify="center" pt="1em">
-    <Loading dark:text="white 20px" text="40px gray-900" />
-  </div>
-</template>
-
-<style scoped>
-
-</style>

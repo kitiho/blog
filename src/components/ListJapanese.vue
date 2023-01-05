@@ -1,27 +1,30 @@
 <script setup lang="ts">
 import ListJapaneseDetail from './ListJapaneseDetail.vue'
 import ListJapaneseTitle from './ListJapaneseTitle.vue'
+import JapaneseFlotItem from './slides/JapaneseFlotItem.vue'
 import { shuffle } from '~/logics'
-
 const props = defineProps<{ japanese: Record<string, any[]> }>()
+const visible = ref(false)
+const checkingWordData = ref()
+function handleWordHover(word, title) {
+  checkingWordData.value = props.japanese[title].find(v => v.name === word)
+  visible.value = true
+  console.log(checkingWordData.value)
+}
+function handleMouseLeaveWord() {
+  visible.value = false
+}
 </script>
 
 <template>
   <template v-for="title in Object.keys(japanese).reverse()" :key="title">
-    <ListJapaneseTitle :title="title" :words="japanese[title].map(v => v.name)" />
-    <div class="py-2 -mx-3">
-      <div v-for="item, idx in japanese[title]" :key="idx" mb-1em>
-        <h3 mt="!0" border-b="2px solid #dddddd">
-          {{ item.name }}
-        </h3>
-        <div v-if="item.zhcn" py="4px" border-rd="8px" dark:text="#dddddd" mb="1em" px="16px" bg="green/10">
-          {{ item.zhcn }}
-        </div>
-        <ListJapaneseDetail :sentence="item.interpretation" bg="bg-blue/10" />
-        <ListJapaneseDetail :sentence="item.exampleSentence" bg="bg-yellow/10" />
-      </div>
-    </div>
+    <ListJapaneseTitle
+      :title="title" :words="japanese[title].map(v => v.name)"
+      @onMouseInWord="word => handleWordHover(word, title)"
+      @onMouseLeaveWord="handleMouseLeaveWord"
+    />
   </template>
+  <JapaneseFlotItem :visible="visible" :word-data="checkingWordData" />
 </template>
 
 <style scoped>
