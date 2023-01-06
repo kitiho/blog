@@ -529,6 +529,30 @@ japanese:
       zhcn: '果真。果然。'
       interpretation: '物事の決まりがつかない。事態が進展しない。決着がつかない。'
       exampleSentence: '電話で話をしても埒が明かない。'
+  気がつくと、無意識のうちに腹をさすっていた。:
+    - name: 'さすっていた' 
+      zhcn: '磨，摸，搓。'
+      interpretation: '手のひらなどでからだや物の表面を、くりかえし軽くこする'
+      exampleSentence: '疲れた足をさする。'
+  どうやら、雲行きが怪しい。:
+    - name: 'どうやら' 
+      zhcn: '总算。好容易。好像。看来。总觉得。'
+      interpretation: '何となく。どことなく。'
+      exampleSentence: 'どうやら雪になりそうだ。'
+    - name: '雲行き' 
+      zhcn: '前景，形势，发展前途。'
+      interpretation: '物事の成り行き。形勢。'
+      exampleSentence: 'じっと雲行きを眺める。'
+  おれは出席簿を閉じると、一目散にドアに向かった。:
+    - name: '一目散' 
+      zhcn: '飞快地，一溜烟地。'
+      interpretation: '脇目もふらずに急ぎ走るさま。'
+      exampleSentence: '一目散に逃げだした。'
+  もとい、職員室の手前にある男性職員用トイレに向かった。:
+    - name: 'もとい' 
+      zhcn: '口语，不对'
+      interpretation: '今言った事を「訂正する」という意味です。いや違う'
+      exampleSentence: ''
 
 
 
