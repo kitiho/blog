@@ -1,12 +1,13 @@
 <script setup lang="ts">
 import ListJapaneseDetail from './ListJapaneseDetail.vue'
 import ListJapaneseTitle from './ListJapaneseTitle.vue'
-import JapaneseFlotItem from './slides/JapaneseFlotItem.vue'
+import JapaneseFlotItem from './JapaneseFlotItem.vue'
 import { shuffle } from '~/logics'
 const props = defineProps<{ japanese: Record<string, any[]> }>()
 const visible = ref(false)
 const checkingWordData = ref()
 function handleWordHover(word, title) {
+  console.log(word, title)
   checkingWordData.value = props.japanese[title].find(v => v.name === word)
   visible.value = true
   console.log(checkingWordData.value)

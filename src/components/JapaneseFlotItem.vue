@@ -21,7 +21,7 @@ const loading = ref(false)
 // const isFinished = ref(false)
 addEventListener('mousemove', onMouseMove)
 watch(() => props.visible, async (e) => {
-  if (props.visible && props.wordData.name) {
+  if (props.visible && props.wordData?.name) {
     loading.value = true
     const { data } = await useAnnotation(props.wordData.name)
     title.value = data.value?.[0]

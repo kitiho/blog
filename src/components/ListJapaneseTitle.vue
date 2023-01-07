@@ -33,7 +33,7 @@ export default {
             v = v.replace(bracketReg, '')
             let res = ''
             for (const char of v) {
-              if (isJapanese([char]))
+              if (isJapanese([char]) || char === '々')
                 res = res.concat(char)
             }
             ctx.emit('onMouseInWord', res)
