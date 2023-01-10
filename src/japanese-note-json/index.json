@@ -1,0 +1,2508 @@
+{
+  "highlights": [
+    {
+      "end_cfi": "/2/4/2/2/14/2/1:78",
+      "highlighted_text": "働かせていた",
+      "spine_index": 4,
+      "spine_name": "text/part0003.html",
+      "start_cfi": "/2/4/2/2/14/2/1:72",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T09:00:41.634Z",
+      "toc_family_titles": [
+        "はじめに"
+      ],
+      "type": "highlight",
+      "uuid": "Ua7K9CrUGucnyc4G62DCNw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/448/2/1:47",
+      "highlighted_text": "振り返る",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/448/2/1:43",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:30:25.476Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "ceb7bAt5LjqUTYLYr_rFyA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/448/2/1:112",
+      "highlighted_text": "能面",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/448/2/1:110",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:31:02.123Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "DiQRMEC0zGPO5Oxw3fJKeg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/448/2/1:141",
+      "highlighted_text": "黙々と",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/448/2/1:138",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:31:33.381Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "I-j4T4Wk9DlkPQGlpYHNTQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/448/2/1:162",
+      "highlighted_text": "道化",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/448/2/1:160",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:33:06.864Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "YN3XlHx0WEk-54G0nefpFA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/448/2/1:193",
+      "highlighted_text": "意地",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/448/2/1:191",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:33:33.688Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "suPWc97jge7WESMOtWZ1SQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/448/2/1:205",
+      "highlighted_text": "貫いて",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/448/2/1:202",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:33:51.328Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "mpyh9FWOLoPa0FKYkH6o3A"
+    },
+    {
+      "end_cfi": "/2/4/2/2/448/2/1:214",
+      "highlighted_text": "子供じみた",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/448/2/1:209",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:35:04.606Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "UsJglAOTNzNn89T_9LnBGQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/448/2/1:250",
+      "highlighted_text": "さすがに",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/448/2/1:246",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:35:51.298Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "6Y7B--UftkvNDzQzcnLLIA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/448/2/1:257",
+      "highlighted_text": "腹に据えかねた",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/448/2/1:250",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:36:37.151Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "MhR1OHGl3_h-EjFjxu7nkg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/452/2/1:50",
+      "highlighted_text": "舌打ち",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/452/2/1:47",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:37:34.728Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "6_0xhlRWC4ynkkVmBUbrWA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/462/2/1:54",
+      "highlighted_text": "密告",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/462/2/1:52",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:39:26.040Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "LsOEpXm2xyu3z_WhoumUnw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/464/2/1:65",
+      "highlighted_text": "飲み下した",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/464/2/1:60",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:40:07.090Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "yWLDVlwbuyNSirk5p5gs2A"
+    },
+    {
+      "end_cfi": "/2/4/2/2/474/2/1:67",
+      "highlighted_text": "わんさと",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/474/2/1:63",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:41:32.726Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "KKXU7X41wqD9bkWFRQS62Q"
+    },
+    {
+      "end_cfi": "/2/4/2/2/474/2/1:79",
+      "highlighted_text": "詰めこまれ",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/474/2/1:74",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:42:12.752Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "_bDavV4YWdW00cH-SaId5g"
+    },
+    {
+      "end_cfi": "/2/4/2/2/474/2/1:88",
+      "highlighted_text": "とてもじゃないが",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/474/2/1:80",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:42:21.702Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "q6WfZT03BEe7LOhy2K3bgg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/490/6/1:2",
+      "highlighted_text": "体を屈かがめる",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/490/2/1:6",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:43:34.312Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "E_UBAC5rYs3kmk5zg-v3-A"
+    },
+    {
+      "end_cfi": "/2/4/2/2/490/6/1:38",
+      "highlighted_text": "ぎっしり",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/490/6/1:34",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:43:47.203Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "K3kBuEr2laOeA2EJTjXpWw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/490/6/1:44",
+      "highlighted_text": "かりんとう",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/490/6/1:39",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:44:09.572Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "8asTl5XJYIMd4S6izFK28g"
+    },
+    {
+      "end_cfi": "/2/4/2/2/490/6/1:64",
+      "highlighted_text": "渋い",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/490/6/1:62",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:44:26.275Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "W1gxIfsj2rGt5wMPm6ETGg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/490/6/1:90",
+      "highlighted_text": "しきりに",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/490/6/1:86",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:45:32.642Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "cIcPVIpXuoiD8pt3734FDA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/494/2/1:24",
+      "highlighted_text": "兼ねてます",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/494/2/1:19",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:46:51.789Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "cfE6fML9pm8EOEifYAJzQA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/502/2/1:85",
+      "highlighted_text": "取り仕切っている",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/502/2/1:77",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:47:55.973Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "tWwmJSW5BxztJUostKD0Cg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/504/8/1:2",
+      "highlighted_text": "貫かん禄ろくある",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/504/4/2/2/1:0",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:48:21.263Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "OXPCviNJUhnteoby5qy8SA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/504/18/1:2",
+      "highlighted_text": "齧かじった",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/504/16/2/2/1:0",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:50:03.965Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "N3qxZOXL1RGeOYbBc6Cbag"
+    },
+    {
+      "end_cfi": "/2/4/2/2/504/24/1:3",
+      "highlighted_text": "湿しつ気けていて",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/504/20/2/2/1:0",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:50:54.971Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "oTcTygFGbuXf73udqboX4w"
+    },
+    {
+      "end_cfi": "/2/4/2/2/504/30/1:3",
+      "highlighted_text": "不ま味ずかった",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/504/26/2/2/1:0",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:50:33.691Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "l8Mp4I9L9rIg0D2efJkCNQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/516/2/1:17",
+      "highlighted_text": "気分を害した",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/516/2/1:11",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:53:12.754Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "P6ftlTnxSus5B6PkZy-ANw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/516/2/1:29",
+      "highlighted_text": "眉間",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/516/2/1:27",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:53:49.129Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "xZ5gJLzM_1_-KPhCBCgdAQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/516/6/1:4",
+      "highlighted_text": "皺しわを寄せた",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/516/4/2/2/1:0",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:54:00.012Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "RRO61SzrpNMxHaTCTkESuQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/518/2/1:87",
+      "highlighted_text": "ビリ",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/518/2/1:85",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:55:57.848Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "2x7T-Zkl6KOxuU9E50ktlw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/524/2/1:19",
+      "highlighted_text": "突っこむ",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/524/2/1:15",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:56:22.890Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "rLQ0qT1WZZIrF6uRbMStrA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/526/2/1:42",
+      "highlighted_text": "ぶつかり",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/526/2/1:38",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:59:03.600Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "T8W8hzrpkXWVfHkg9c-YGg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/528/2/1:16",
+      "highlighted_text": "やたらと",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/528/2/1:12",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T12:59:26.008Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "dgPyX2sKSe6JVGnIvsgQag"
+    },
+    {
+      "end_cfi": "/2/4/2/2/528/2/1:25",
+      "highlighted_text": "鼻息は荒い",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/528/2/1:20",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:02:36.831Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "jM-JE1cE91NmYPj93XXYCw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/532/2/1:23",
+      "highlighted_text": "持ち回り",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/532/2/1:19",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:03:19.694Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "1N8JDUSfvQ7NfOml9nXmCg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/534/2/1:8",
+      "highlighted_text": "国体",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/534/2/1:6",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:11:00.774Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "VIPEr_3fADsYW_yGniIjOA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/548/2/1:19",
+      "highlighted_text": "めくった",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/548/2/1:15",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:11:58.165Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "6d0S1FN4eNtetfKok2a96A"
+    },
+    {
+      "end_cfi": "/2/4/2/2/548/2/1:29",
+      "highlighted_text": "置き土産",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/548/2/1:25",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:17:50.490Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "Y0DXHZ99dw49NKCek0ouJw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/548/2/1:72",
+      "highlighted_text": "書きこまれていた",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/548/2/1:64",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:17:48.664Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "ZK0-wHLlOCYFKQikx9FLuQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/554/2/1:3",
+      "highlighted_text": "由緒",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/554/2/1:1",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:18:44.145Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "JE3Ich5YlnADopbuo7cuzA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/558/2/1:20",
+      "highlighted_text": "感心",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/558/2/1:18",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:19:54.796Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "Mrg8f3ALDlGu_ZrevBmWiA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/558/2/1:82",
+      "highlighted_text": "やんわりと",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/558/2/1:77",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:21:24.146Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "h2HL9zec91LOsVcCJt04ag"
+    },
+    {
+      "end_cfi": "/2/4/2/2/566/2/1:18",
+      "highlighted_text": "ぎっしり",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/566/2/1:14",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:22:18.327Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "Mb0IGjxas8nOOJGpH6Y5ew"
+    },
+    {
+      "end_cfi": "/2/4/2/2/566/2/1:39",
+      "highlighted_text": "目で追っている",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/566/2/1:32",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:24:32.573Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "Md7aIg4FgZ9G4KdX0FX1Lw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/576/2/1:53",
+      "highlighted_text": "ありそうに見えてほとんどない",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/576/2/1:39",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:27:17.176Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "USxr--NDArB8d3VLhnlVsw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/576/2/1:113",
+      "highlighted_text": "しぐさ",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/576/2/1:110",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:28:28.824Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "IZafzX3y-MYgOs6q0OeyBQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/580/2/1:11",
+      "highlighted_text": "無防備",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/580/2/1:8",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:28:51.159Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "YcxoGaGPMIEyHgmtpAORvA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/580/2/1:29",
+      "highlighted_text": "顔に出る",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/580/2/1:25",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:29:06.689Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "q-OdkNbX8CDk13tCHwvuwQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/580/2/1:87",
+      "highlighted_text": "見守って",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/580/2/1:83",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:30:58.162Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "tu3kOTXUSEtJqeTvCZJS2Q"
+    },
+    {
+      "end_cfi": "/2/4/2/2/588/4/2/2/1:1",
+      "highlighted_text": "懐",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/588/4/2/2/1:0",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:34:33.939Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "gAoFrnzXvG29NkRve2x91w"
+    },
+    {
+      "end_cfi": "/2/4/2/2/592/2/1:9",
+      "highlighted_text": "ひょいと",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/592/2/1:5",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:35:44.112Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "7emyX6NQumS-Jt4Mcxgyow"
+    },
+    {
+      "end_cfi": "/2/4/2/2/592/2/1:50",
+      "highlighted_text": "つくづく",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/592/2/1:46",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:36:34.918Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "juZJLT9fT0hNLhRBSCusnw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/594/2/1:11",
+      "highlighted_text": "探し当てた",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/594/2/1:6",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:38:28.702Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "BQOpikazlvOk5hjesIS1Kg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/594/2/1:49",
+      "highlighted_text": "上背",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/594/2/1:47",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:38:56.339Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "bRYbDMDvyPSZOT4I1ZEl8w"
+    },
+    {
+      "end_cfi": "/2/4/2/2/598/2/1:45",
+      "highlighted_text": "射しこむ",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/598/2/1:41",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:42:09.549Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "IDswE8ArST-a2_tSHBlyRQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/598/2/1:52",
+      "highlighted_text": "モルタル",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/598/2/1:48",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:42:39.665Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "aJ1JirVKcmL2lrIyhkgMIA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/598/6/1:2",
+      "highlighted_text": "澱よどんだ",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/598/4/2/2/1:0",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:43:10.389Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "wr73WVewGEFCS7WOu3lsNw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/600/2/1:90",
+      "highlighted_text": "壁にかかった",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/600/2/1:84",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:45:45.233Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "_TdlYhoQBLWH-Dt59tJl3A"
+    },
+    {
+      "end_cfi": "/2/4/2/2/600/2/1:94",
+      "highlighted_text": "プレート",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/600/2/1:90",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:45:05.189Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "66NggmK9CKopzZ2_eKCR2g"
+    },
+    {
+      "end_cfi": "/2/4/2/2/600/2/1:103",
+      "highlighted_text": "歩みを止めた",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/600/2/1:97",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:45:58.871Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "kPBw0Huok3oJYcNUzxPHsQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/600/2/1:160",
+      "highlighted_text": "すれ違った",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/600/2/1:155",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:46:34.745Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "m2_f0bKo15XoqEO_e-KkGQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/600/2/1:188",
+      "highlighted_text": "シルエット",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/600/2/1:183",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:46:52.981Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "aw3gO3KOoszDGrFG51-7eA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/604/2/1:7",
+      "highlighted_text": "会釈",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/604/2/1:5",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:48:33.478Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "LTxTdgLGacIz4NY-76rlFQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/604/2/1:25",
+      "highlighted_text": "帯びた",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/604/2/1:22",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:48:45.058Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "Kbw6e6TL3PQe3YjeaGdmAQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/606/2/1:59",
+      "highlighted_text": "すっと",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/606/2/1:56",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:49:56.413Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "s1-YNNkTY7K-p4--ryny-w"
+    },
+    {
+      "end_cfi": "/2/4/2/2/606/2/1:69",
+      "highlighted_text": "ひるがえった",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/606/2/1:63",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:50:21.072Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "g8a5VFXP9TxuPfrgy7Ie3Q"
+    },
+    {
+      "end_cfi": "/2/4/2/2/606/2/1:84",
+      "highlighted_text": "かすかな",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/606/2/1:80",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:50:32.408Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "dTSIweqxeyvGX9x-5bXWbQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/606/2/1:97",
+      "highlighted_text": "漂った",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/606/2/1:94",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:50:36.978Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "ecaHuyPHPVokMvW3HwYa_A"
+    },
+    {
+      "end_cfi": "/2/4/2/2/608/2/1:19",
+      "highlighted_text": "立ち尽くした",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/608/2/1:13",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:52:25.657Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "0dInhlPIEQ-UcUSXjw7rIQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/610/2/1:17",
+      "highlighted_text": "記された",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/610/2/1:13",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T13:52:55.330Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "Ef8fWaR6t5Hekk0rmDatTg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/620/2/1:49",
+      "highlighted_text": "ぶらぶら",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/620/2/1:45",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:12:50.492Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "o0WqllJ0-gMYQQaeU4PFuA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/620/2/1:62",
+      "highlighted_text": "買い揃えていない",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/620/2/1:54",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:14:23.193Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "BL7x2RlKmrFjvbB6Ol0i8g"
+    },
+    {
+      "end_cfi": "/2/4/2/2/620/2/1:79",
+      "highlighted_text": "三条通",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/620/2/1:76",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:14:39.180Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "HwdC74IckF8ZtRhQf76QUw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/620/2/1:86",
+      "highlighted_text": "興福寺",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/620/2/1:83",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:14:55.576Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "ErgWFw1apO13hp0EjZyVJg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/620/8/1:14",
+      "highlighted_text": "五重塔",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/620/8/1:11",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:15:29.479Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "-CrbCGVm03NeNz6mfrncCw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/620/8/1:19",
+      "highlighted_text": "みっしり",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/620/8/1:15",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:15:36.297Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "AP4QnC-4NDaZ6u504QISXg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/620/8/1:39",
+      "highlighted_text": "そびえ立っていた",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/620/8/1:31",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:17:14.804Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "e6K_VBbfWLb8ygkmdngtzQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/620/8/1:45",
+      "highlighted_text": "重厚な均衡",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/620/8/1:40",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:18:54.764Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "z1Sv3aTDLEq7X0S6e_QPZg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/620/10/2/2/1:1",
+      "highlighted_text": "甍",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/620/10/2/2/1:0",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:19:12.983Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "t8AyVZV2H0ZO0F0Rdj_2Vw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/620/12/1:58",
+      "highlighted_text": "蘇った",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/620/12/1:55",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:22:57.921Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "bQxwHDKxXfabP3OO1CoDKQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/620/12/1:73",
+      "highlighted_text": "とはいえ",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/620/12/1:69",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:23:10.272Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "ouk_uswXHlX_nXW1gg-igw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/620/12/1:95",
+      "highlighted_text": "まっとうする",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/620/12/1:89",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:23:28.809Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "6CKcgJO1HWJ7M4Gs7pNcaw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/620/12/1:164",
+      "highlighted_text": "やわな仕事",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/620/12/1:159",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:24:24.510Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "VQp0dzVVqDHj5zhdVdq-ew"
+    },
+    {
+      "end_cfi": "/2/4/2/2/620/12/1:176",
+      "highlighted_text": "だだっ広い",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/620/12/1:171",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:26:01.568Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "1SI2F-iqu2WZ5uoPJtnIsA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/622/2/1:8",
+      "highlighted_text": "らしき",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/622/2/1:5",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:27:24.321Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "4mJ9tPBMMJNjLKvbQwcHeA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/622/2/1:35",
+      "highlighted_text": "勾玉",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/622/2/1:33",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:27:52.364Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "UqahiJMb89duFOdDHiMLtg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/622/2/1:47",
+      "highlighted_text": "滑らか",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/622/2/1:44",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:28:05.856Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "wVdeToEqP-51zyo8ChHohA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/624/2/1:12",
+      "highlighted_text": "土塀",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/624/2/1:10",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:29:57.394Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "Jy_zFspTeysNqeJ8NwKpaA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/624/2/1:73",
+      "highlighted_text": "春日大社",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/624/2/1:69",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:30:32.386Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "AwqdnQAmuYHa2cqZjYXlew"
+    },
+    {
+      "end_cfi": "/2/4/2/2/624/2/1:75",
+      "highlighted_text": "柵",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/624/2/1:74",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:30:52.072Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "0W5l-j_8mVx8JHNRqxQThw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/624/2/1:116",
+      "highlighted_text": "行き来する",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/624/2/1:111",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:31:31.967Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "TzpA_I3Y8N1uV_Z7jTSSTw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/624/2/1:119",
+      "highlighted_text": "四つ辻",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/624/2/1:116",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:31:56.245Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "42QxXppNcIU43ubyEvpHww"
+    },
+    {
+      "end_cfi": "/2/4/2/2/624/2/1:124",
+      "highlighted_text": "所在無げ",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/624/2/1:120",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:33:04.108Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "-l5r4VZ1BnTEhCCJt5ZrMA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/626/8/1:11",
+      "highlighted_text": "足取り",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/626/8/1:8",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:36:05.119Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "uaRBX_4G0zeiJ1BiNdcNhQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/626/8/1:50",
+      "highlighted_text": "尻",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/626/8/1:49",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:36:31.518Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "E-ggDTvfjH3YreKKRBfVbA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/626/8/1:67",
+      "highlighted_text": "ぼろぼろ",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/626/8/1:63",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:36:49.358Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "s4dVymRoXvkr1y6pQtSF_A"
+    },
+    {
+      "end_cfi": "/2/4/2/2/630/2/1:51",
+      "highlighted_text": "山々",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/630/2/1:49",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:38:01.132Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "VQ8C3pQHdxyRnLZfJrTgNA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/630/2/1:55",
+      "highlighted_text": "滲む",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/630/2/1:53",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:38:10.363Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "E2s6pW7IGLnUqZSAcwmXSw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/630/2/1:65",
+      "highlighted_text": "覆っていく",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/630/2/1:60",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:38:31.136Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "nNyao_kTzPix2npqO4mLuA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/630/2/1:92",
+      "highlighted_text": "間抜けな声",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/630/2/1:87",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:39:25.353Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "fpSsMZGY1nDN8sosAqI3VQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/638/2/1:5",
+      "highlighted_text": "週が明け",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/638/2/1:1",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:43:24.542Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "RK1TMSxFO0RH7-gwik_qFg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/640/2/1:10",
+      "highlighted_text": "見つける",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/640/2/1:6",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:44:04.753Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "yZOAIzDCnEX-Qm20pQv2aQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/640/2/1:91",
+      "highlighted_text": "すっかり",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/640/2/1:87",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:44:38.470Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "sGHjh2WJ_AQSO3oqiOCThw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/640/2/1:98",
+      "highlighted_text": "抜けきっている",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/640/2/1:91",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:44:58.212Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "y4ayIgpC9K_inBXhlX-QlQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/640/2/1:129",
+      "highlighted_text": "血色",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/640/2/1:127",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:46:00.574Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "1iithA1AyFF6923hNVUg_g"
+    },
+    {
+      "end_cfi": "/2/4/2/2/642/2/1:209",
+      "highlighted_text": "小治田",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/642/2/1:206",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:48:54.377Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "NlMgwr1UbdSUm8goISX6oQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/646/2/1:9",
+      "highlighted_text": "打ち合わせ",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/646/2/1:4",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:50:24.692Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "o_mXtPjXmoleRTPOuz2JCA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/646/2/1:63",
+      "highlighted_text": "いい加減",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/646/2/1:59",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:51:12.793Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "LD4fAEfZRx9LZkAGpYA9sQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/646/2/1:109",
+      "highlighted_text": "のぞかせている",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/646/2/1:102",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:51:46.693Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "SZj2h5-esI3v_vVCpfB49Q"
+    },
+    {
+      "end_cfi": "/2/4/2/2/646/2/1:132",
+      "highlighted_text": "引き締まって",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/646/2/1:126",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:52:00.976Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "l5lBDDAcsnwqehUxk0CgDQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/646/2/1:181",
+      "highlighted_text": "シルバーグレー",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/646/2/1:174",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:55:11.624Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "wpkwjthXIDbushCNfOnUFg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/646/2/1:193",
+      "highlighted_text": "波打っている",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/646/2/1:187",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:55:19.782Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "BB3iZJA2TmBBXhT3F2EW4Q"
+    },
+    {
+      "end_cfi": "/2/4/2/2/646/2/1:202",
+      "highlighted_text": "ラウンジ",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/646/2/1:198",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:55:26.902Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "-wtBvM_Hxx5zeBcvsuelDw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/648/8/1:2",
+      "highlighted_text": "気け圧おされ",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/648/4/2/2/1:0",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:57:36.581Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "S4zfbMPKvUGHOkWz5AtuTw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/648/8/1:21",
+      "highlighted_text": "詰まらせ",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/648/8/1:17",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:58:28.633Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "u3ReUazTBL_ptLrIgvgC-Q"
+    },
+    {
+      "end_cfi": "/2/4/2/2/652/2/1:9",
+      "highlighted_text": "声色",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/652/2/1:7",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:59:25.967Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "lVgcVTdNiKfEFxrjNP5uOQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/652/2/1:24",
+      "highlighted_text": "甲斐",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/652/2/1:22",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T15:59:35.683Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "hVGZdPngnRD-XinQoOCgLA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/654/2/1:5",
+      "highlighted_text": "ダンディ",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/654/2/1:1",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:00:30.765Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "HEEByAm7M8ePjGtBgw5M0w"
+    },
+    {
+      "end_cfi": "/2/4/2/2/656/2/1:28",
+      "highlighted_text": "あくび",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/656/2/1:25",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:00:48.989Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "2RejT0k5VcIqCaaVo_v4wA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/658/2/1:68",
+      "highlighted_text": "二分する",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/658/2/1:64",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:02:05.598Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "d1-iKVHOBL62SGKuW-XyUA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/660/6/1:1",
+      "highlighted_text": "競せる",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/660/4/2/2/1:0",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:02:18.400Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "0f8UQWc2Os6PnT1ka4dhug"
+    },
+    {
+      "end_cfi": "/2/4/2/2/668/2/1:7",
+      "highlighted_text": "ささやいた",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/668/2/1:2",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:02:57.375Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "73DMJwzs9Dn2NcL77QUaAw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/668/2/1:32",
+      "highlighted_text": "ひそめる",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/668/2/1:28",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:04:42.321Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "oEzjhmZ3_MH2WOA1inhFGA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/672/2/1:48",
+      "highlighted_text": "眉毛",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/672/2/1:46",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:05:22.368Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "Ue8PdHos7Q6pj2izImQvxQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/672/2/1:61",
+      "highlighted_text": "ギョロギョロ",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/672/2/1:55",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:05:34.876Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "MFDHRTm4C8790va2hmLIYw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/674/2/1:8",
+      "highlighted_text": "どさくさに紛れ",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/674/2/1:1",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:06:31.917Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "RwafO92XMpSRyNPu_CTZqw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/674/2/1:51",
+      "highlighted_text": "すぐさま",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/674/2/1:47",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:07:12.828Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "ccOu8h4JhBxOD8YZ0rRa9g"
+    },
+    {
+      "end_cfi": "/2/4/2/2/674/2/1:59",
+      "highlighted_text": "追い払った",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/674/2/1:54",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:07:28.162Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "kDxb2sUrv-sU-gKWpcHXJQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/684/2/1:19",
+      "highlighted_text": "いわんばかり",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/684/2/1:13",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:09:39.634Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "f0TS2-QzEakvJymLAzkDDQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/684/2/1:47",
+      "highlighted_text": "こげ茶",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/684/2/1:44",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:09:06.745Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "uBw9XveCcvpYRb9SY1ggYw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/688/2/1:16",
+      "highlighted_text": "ものの",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/688/2/1:13",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:11:18.439Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "lSQ8YEj36E6ZTDZ_yCeDww"
+    },
+    {
+      "end_cfi": "/2/4/2/2/692/2/1:8",
+      "highlighted_text": "うなる",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/692/2/1:5",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:12:15.476Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "WgpWh7ftpveVnCKNzBQBrw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/692/2/1:14",
+      "highlighted_text": "なおさら",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/692/2/1:10",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:12:03.844Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "0ZH19Qfj9wQadi2cDnxHjA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/692/2/1:32",
+      "highlighted_text": "だけあって",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/692/2/1:27",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:12:43.605Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "AWhOLuXS0xuy9IFBlsizJQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/692/2/1:38",
+      "highlighted_text": "何ら",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/692/2/1:36",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:13:28.377Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "-d8_R-Djq8LIXDa9Ve36Sg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/692/2/1:47",
+      "highlighted_text": "損ねていない",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/692/2/1:41",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:13:49.170Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "BBwr4F5WBquhZUSyd-59Zg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/692/2/1:55",
+      "highlighted_text": "案外",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/692/2/1:53",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:14:05.080Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "BBiFj6EfSdCneTtlEX4tdQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/692/2/1:62",
+      "highlighted_text": "大物",
+      "spine_index": 8,
+      "spine_name": "text/part0007.html",
+      "start_cfi": "/2/4/2/2/692/2/1:60",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-09T16:14:50.893Z",
+      "toc_family_titles": [
+        "第二章 長月（九月）"
+      ],
+      "type": "highlight",
+      "uuid": "-fj_qtRu07-ouKpiJQOj7Q"
+    }
+  ],
+  "type": "calibre_highlights",
+  "version": 1
+}
