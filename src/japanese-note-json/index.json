@@ -4841,6 +4841,1248 @@
       ],
       "type": "highlight",
       "uuid": "uiDCFlVXSaDBtp4x_P4i9A"
+    },
+    {
+      "end_cfi": "/2/4/2/2/26/2/1:14",
+      "highlighted_text": "衝立",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/26/2/1:12",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T05:58:03.900Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "fRmk8RK4dnxpfCY0cX1Q2w"
+    },
+    {
+      "end_cfi": "/2/4/2/2/28/2/1:34",
+      "highlighted_text": "革張り",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/28/2/1:31",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T05:58:14.946Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "MRU76YpOb6QWutiIMPAR9A"
+    },
+    {
+      "end_cfi": "/2/4/2/2/28/10/1:5",
+      "highlighted_text": "まとった",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/28/10/1:1",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T05:58:34.677Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "HY_zVdpz9BXZgRhWaUebEg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/28/10/1:11",
+      "highlighted_text": "みしりと",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/28/10/1:7",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T05:58:40.906Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "SUyeaMvM2EnVyoCzBlA9zw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/32/2/1:95",
+      "highlighted_text": "一目散",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/32/2/1:92",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T05:59:21.482Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "Xz00GVFppZlMdyBqVnLb7g"
+    },
+    {
+      "end_cfi": "/2/4/2/2/34/6/1:4",
+      "highlighted_text": "揉もめている",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/34/4/2/2/1:0",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T05:59:31.815Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "DUwAhzf5gNStA_6dC6lLhQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/36/6/1:2",
+      "highlighted_text": "咎とがめる",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/36/4/2/2/1:0",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T05:59:52.835Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "rSKiq8g4BwIuKqOaNIG8tg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/38/2/1:34",
+      "highlighted_text": "不格好",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/38/2/1:31",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:00:17.442Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "-jS2DqdUoDDcDz1ekbhVEA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/48/2/1:27",
+      "highlighted_text": "こくりと",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/48/2/1:23",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:00:49.463Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "leXoCltCLJgDV9dcLADbCg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/50/2/1:34",
+      "highlighted_text": "取り組んで",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/50/2/1:29",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:01:07.177Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "rJ6PRxVdSJPSTTxbDhBO3Q"
+    },
+    {
+      "end_cfi": "/2/4/2/2/50/2/1:48",
+      "highlighted_text": "抱えきれない",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/50/2/1:42",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:01:25.892Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "72f80EHaqwfS8Lfuk8p0oA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/52/2/1:4",
+      "highlighted_text": "諭す",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/52/2/1:2",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:01:39.727Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "kUVzYiylok4kcUtGl4MlaQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/52/6/1:1",
+      "highlighted_text": "解ほぐれ",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/52/4/2/2/1:0",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:02:00.823Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "3DliJ5s2qAWWrWdmxDhPCA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/52/6/1:8",
+      "highlighted_text": "ゆるみ",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/52/6/1:5",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:02:11.742Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "3Ks1LaxLbXV9pUkYTYhUYA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/56/2/1:25",
+      "highlighted_text": "じんわり",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/56/2/1:21",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:03:36.738Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "JM4MV0UJoXzb9Zonepfx_w"
+    },
+    {
+      "end_cfi": "/2/4/2/2/56/2/1:29",
+      "highlighted_text": "染み渡る",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/56/2/1:25",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:03:43.652Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "bTPta9WknZ5nfPhx0hA5jQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/56/2/1:73",
+      "highlighted_text": "目尻",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/56/2/1:71",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:04:05.021Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "MGMY04nMFLgKqzCuxhZvtA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/56/2/1:78",
+      "highlighted_text": "皺を寄せ",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/56/2/1:74",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:04:16.672Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "3BYQQ7Re2gHuaaxJ5UMmog"
+    },
+    {
+      "end_cfi": "/2/4/2/2/72/2/1:14",
+      "highlighted_text": "他愛のない",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/72/2/1:9",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:07:33.627Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "tocOwn-0s3sg37bxEFchbQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/86/2/1:37",
+      "highlighted_text": "釈然",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/86/2/1:35",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:17:18.505Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "o9Sz3VE5J-hQo_5UWo31Hw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/86/2/1:109",
+      "highlighted_text": "打ちっ放し",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/86/2/1:104",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:17:41.538Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "04HdWiNwXoFw7nqGxuKfUA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/90/2/1:37",
+      "highlighted_text": "たしなみません",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/90/2/1:30",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:18:30.558Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "SiftEZI_uTmtVqlfPQWJpw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/94/2/1:9",
+      "highlighted_text": "発掘",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/94/2/1:7",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:19:08.202Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "6rzbxqeInJtV8vRicftVwg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/108/2/1:19",
+      "highlighted_text": "掘れば",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/108/2/1:16",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:41:19.678Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "Gq7AhiulnqdoJfrdAkVaPw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/108/8/1:4",
+      "highlighted_text": "わんさ",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/108/8/1:1",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:41:35.147Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "nBM7fUi_ybI88mCoofZt4w"
+    },
+    {
+      "end_cfi": "/2/4/2/2/112/8/1:47",
+      "highlighted_text": "根っから",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/112/8/1:43",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:42:31.285Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "IZNp8AfL_w-yMcz4-ZsLVA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/114/2/1:32",
+      "highlighted_text": "薄っぺらい",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/114/2/1:27",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:43:03.125Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "aUgpwwgmRSd6fIuQBZw9gA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/114/2/1:47",
+      "highlighted_text": "散策",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/114/2/1:45",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:43:09.966Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "1VmIeAbYRB4rT1NF8Qb6pA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/120/2/1:13",
+      "highlighted_text": "素質",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/120/2/1:11",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:44:37.326Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "DLqdO3G_dtzLZmFUjYUbWQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/122/2/1:12",
+      "highlighted_text": "足が短い",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/122/2/1:8",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:44:02.243Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "FIYwnQAZhOS1gJpFJckzgw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/124/2/1:44",
+      "highlighted_text": "朱を入れ",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/124/2/1:40",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:45:15.831Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "GkYxrl66FTpD5hIqLxZuyQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/124/2/1:82",
+      "highlighted_text": "ジャージ",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/124/2/1:78",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:45:27.280Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "CX3PBKjkHvVOCgTX_9Wb7g"
+    },
+    {
+      "end_cfi": "/2/4/2/2/124/2/1:122",
+      "highlighted_text": "そそくさ",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/124/2/1:118",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:45:46.787Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "nvENMC9svtK_R1-RYuDD6A"
+    },
+    {
+      "end_cfi": "/2/4/2/2/124/10",
+      "highlighted_text": "手持ち無ぶ沙さ汰た",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/124/2/1:140",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:46:01.298Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "Iye0R45-g1i2zOKfO3iKMA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/124/10/1:56",
+      "highlighted_text": "放っていた",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/124/10/1:51",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:46:18.429Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "cLrXD7KZUdmVxUe8K5VsyQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/134/2/1:7",
+      "highlighted_text": "寝倒れ",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/134/2/1:4",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:46:44.771Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "z0yQwuI7XuudPdDkzjwsGg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/146/6/2/2/1:1",
+      "highlighted_text": "大おお仰",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/146/4/2/2/1:0",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:47:44.989Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "AieV2DxRPLoVt6vhhbH8dg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/148/2/1:3",
+      "highlighted_text": "急須",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/148/2/1:1",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:49:17.584Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "s4e81l2Qr4CbvFiEVZ4Xsw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/148/2/1:36",
+      "highlighted_text": "それなりに",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/148/2/1:31",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:49:44.467Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "KrYoFauL4luZIU8L_xHfUg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/148/8/1:39",
+      "highlighted_text": "ひれ伏し",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/148/8/1:35",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:50:04.021Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "KVCwyvaUt9sqDSZKRfm8Qg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/148/8/1:85",
+      "highlighted_text": "免れ",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/148/8/1:83",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:50:20.038Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "LYEW-pJVTVVK-W5hfWoNpg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/150/8/1:3",
+      "highlighted_text": "よそ",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/150/8/1:1",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:50:50.817Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "EUQOWzYffkPi7jJonSCNSg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/150/12/1:7",
+      "highlighted_text": "蜂はちの巣をつついた",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/150/10/2/2/1:0",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:51:34.026Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "ImCqzermZg2-BciU5LBRyA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/150/20",
+      "highlighted_text": "寝ね坊ぼ助すけ",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/150/14/2/2/1:0",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:52:10.070Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "QvBLEkRvM9k5LImdvgD5Hg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/150/24/2/2/1:1",
+      "highlighted_text": "身しん代",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/150/22/2/2/1:0",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:52:25.377Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "6sqIP-u-wSV2VJJVBBN4Wg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/152/2/1:9",
+      "highlighted_text": "物騒",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/152/2/1:7",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:52:36.726Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "3LHEeBBABCS_RPXDDnxpLg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/152/2/1:22",
+      "highlighted_text": "うかうか",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/152/2/1:18",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:52:46.563Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "aBqVi56dtnx-SN0NNbcM5g"
+    },
+    {
+      "end_cfi": "/2/4/2/2/170/2/1:16",
+      "highlighted_text": "言い放つ",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/170/2/1:12",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:54:10.293Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "Pvs1F1RfpMm_7-j-pnfTtA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/182/2/1:39",
+      "highlighted_text": "臨時",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/182/2/1:37",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:57:12.030Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "iwveyHkRYT1NKdHoCm95gg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/184/2/1:7",
+      "highlighted_text": "梨",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/184/2/1:6",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:57:28.920Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "fGcWs3cxTXyUVtSV75Ds0g"
+    },
+    {
+      "end_cfi": "/2/4/2/2/184/2/1:36",
+      "highlighted_text": "携わる",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/184/2/1:33",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T06:57:57.653Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "Cl6oX43g7rwU3tVLNz4DqQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/202/2/1:31",
+      "highlighted_text": "もぐもぐ",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/202/2/1:27",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:00:07.563Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "PjW39vOWh9dR1wls5ZngWA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/206/2/1:83",
+      "highlighted_text": "したたか",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/206/2/1:79",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:00:44.787Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "ynnOA18kQFWYLuoYMeHQIA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/208/2/1:37",
+      "highlighted_text": "ピンとこない",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/208/2/1:31",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:02:13.800Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "YJrz4j_kRSm18nESHUc7Iw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/212/2/1:21",
+      "highlighted_text": "言いがかり",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/212/2/1:16",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:03:01.389Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "zJgBGwAVzTL0z2vFBNP3Mw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/212/6/1:30",
+      "highlighted_text": "始末の悪い",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/212/6/1:25",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:04:25.893Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "VOl-S465z2VmoYt8CpbGCg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/218/2/1:17",
+      "highlighted_text": "拾って",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/218/2/1:14",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:07:49.847Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "Ss3ahILosxDSWQyYMaaBuw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/220/2/1:69",
+      "highlighted_text": "絶やさず",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/220/2/1:65",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:08:43.177Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "NTBNhvxueGP0rKdcE_T8Zw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/220/2/1:97",
+      "highlighted_text": "せっせと",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/220/2/1:93",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:09:09.005Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "-LNgiqtpZTW8eUQJSfUAeg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/226/8/1:14",
+      "highlighted_text": "古墳",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/226/8/1:12",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:14:23.422Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "eyJB7-81D7wQwpaGCE2RCQ"
+    },
+    {
+      "end_cfi": "/2/4/2/2/226/8/1:70",
+      "highlighted_text": "田んぼ",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/226/8/1:67",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:15:12.465Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "Zpwc-94t5qMhxKK2I-XsgA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/226/8/1:81",
+      "highlighted_text": "こんもりと",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/226/8/1:76",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:15:28.153Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "Sh07SCBKCvKK1nUjPZtHsg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/226/8/1:143",
+      "highlighted_text": "大和",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/226/8/1:141",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:16:12.744Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "kcOlE9xSHpwOo0r_x5STxg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/228/6/1:43",
+      "highlighted_text": "抱え",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/228/6/1:41",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:18:58.195Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "zDI1w7lonI4D-OnpsE1yeg"
+    },
+    {
+      "end_cfi": "/2/4/2/2/228/6/1:58",
+      "highlighted_text": "浴槽",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/228/6/1:56",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:19:16.107Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "hrByOoC_shiOdp5rLAdD9w"
+    },
+    {
+      "end_cfi": "/2/4/2/2/228/6/1:150",
+      "highlighted_text": "咎め",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/228/6/1:148",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:20:19.054Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "tGYl4t6L_HfUmcXuWOdGcA"
+    },
+    {
+      "end_cfi": "/2/4/2/2/230/2/1:4",
+      "highlighted_text": "サウナ",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/230/2/1:1",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:21:10.199Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "ku3j7Zr_KW0f2aYtEGRhIw"
+    },
+    {
+      "end_cfi": "/2/4/2/2/266/2/1:63",
+      "highlighted_text": "かざしたり",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/266/2/1:58",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:40:57.320Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "tsWJd2ZdgdXSipxSAtiR4A"
+    },
+    {
+      "end_cfi": "/2/4/2/2/292/2/1:64",
+      "highlighted_text": "ふらふら",
+      "spine_index": 10,
+      "spine_name": "text/part0009.html",
+      "start_cfi": "/2/4/2/2/292/2/1:60",
+      "style": {
+        "kind": "color",
+        "type": "builtin",
+        "which": "yellow"
+      },
+      "timestamp": "2023-01-16T07:45:12.593Z",
+      "toc_family_titles": [
+        "第三章 神無月（十月）"
+      ],
+      "type": "highlight",
+      "uuid": "V9OMHPZkDVh8wnH-mms3AA"
     }
   ],
   "type": "calibre_highlights",
