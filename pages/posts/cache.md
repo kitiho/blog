@@ -25,7 +25,7 @@ reverse proxy server.
 `cache-control` in Response Headers.
 
 <figure>
-  <img src="/images/cache-2.jpg" alt="cache-control" />
+  <img src="/images/cache-2.png" alt="cache-control" />
   <figcaption>cache-control</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ as name.
 don't have `cache-control`
 
 <figure>
-  <img src="/images/cache-3.jpg" alt="Heuristic Cache" />
+  <img src="/images/cache-3.png" alt="Heuristic Cache" />
   <figcaption>Heuristic Cache</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ check if match tag. hash name.
 ### Cache Busting
 
 <figure>
-  <img src="/images/cache-4.jpg" alt="Cache Busting" />
+  <img src="/images/cache-4.png" alt="Cache Busting" />
   <figcaption>Cache Busting</figcaption>
 </figure>
 
