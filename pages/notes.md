@@ -8,6 +8,24 @@ lineWave: true
 
 <article>
 
+## Typescript Library `tsconfig.json`
+
+```json
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "esnext",
+    "lib": ["esnext"],
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true
+  }
+}
+```
 ## 封装axios示例
 
 _2022/12/12_
