@@ -10,6 +10,8 @@ lineWave: true
 
 ## Typescript Library `tsconfig.json`
 
+_2023/01/19_
+
 ```json
 {
   "compilerOptions": {
