@@ -2,7 +2,7 @@
 display: Japanese
 subtitle: 日本語勉強用
 description: 日本語勉強用
-lineWave: true
+lineWave: false
 japanese:
   ベッドに入ってうとうとし始めると、頭の上らへんを、ときどき小人の鼓笛隊が通っていった。:
     - name: 'うとうと'
