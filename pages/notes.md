@@ -8,6 +8,46 @@ lineWave: true
 
 <article>
 
+## CustomRequest
+
+_2023/02/09_
+
+```ts
+async function customRequest(option) {
+  const { onProgress, onError, onSuccess, fileItem, name } = option
+  const prefix = `avatar-${new Date().getTime()}`
+  const fmData = new FormData()
+  fmData.append('Path', user.value.id!)
+  fmData.append('Object', `${prefix}-${fileItem.name}`)
+  fmData.append('Overwrite', 'true')
+  fmData.append('File', fileItem.file)
+  const res = await postFilesPublic({
+    formData: fmData,
+  })
+  await postChangeAvatar({
+    avatarUrl: `${import.meta.env.VITE_APP_API}/api/files/public/p/${res.path}${res.name}`,
+  })
+  await appStore.getUser()
+}
+
+/**
+ * 上传文件
+ */
+export function postFilesPublic({
+  formData,
+  handleProgress,
+}: {
+  formData: FormData
+  handleProgress?: (e: any) => void
+}) {
+  return http.post('/api/files/public', formData, {
+    headers: { 'content-type': 'multipart/form-data' },
+    onUploadProgress: handleProgress,
+  })
+}
+```
+
+
 ## Typescript Library `tsconfig.json`
 
 _2023/01/19_
