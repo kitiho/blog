@@ -8,6 +8,34 @@ lineWave: true
 
 <article>
 
+## Unocss Local Font
+
+_2023/02/13_
+
+```js
+/* unocss.config.js */
+presetWebFonts({
+  fonts: {
+    sans: 'DM Sans',
+    serif: 'DM Serif Display',
+    mono: 'DM Mono',
+    pf: 'PingFang SC',
+    ys: 'YouSheBiaoTi',
+  },
+})
+```
+
+```css
+/* main.css */
+@font-face {
+  font-family: 'YouSheBiaoTi';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../assets/fonts/YouSheBiaoTiHei-2.ttf') format('truetype');
+}
+```
+
 ## CustomRequest
 
 _2023/02/09_
