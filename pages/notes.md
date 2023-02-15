@@ -8,6 +8,64 @@ lineWave: true
 
 <article>
 
+
+## Echarts Common Options
+
+_2023/02/15_
+
+```js
+const options = ref({
+  grid: {
+    left: '0%',
+    right: '5%',
+    bottom: '0%',
+    top: '10%',
+    // width: '91%',
+    // height: '88%',
+    containLabel: true,
+  },
+  xAxis: {
+    data: ['8:00', '9:30', '11:00', '13:30', '15:00', '17:30', '19:00', '20:30', '24:00'],
+    boundaryGap: false,
+    splitLine: {
+      show: true,
+      lineStyle: {
+        color: '#306269',
+        opacity: 0.2,
+      },
+    },
+  },
+  yAxis: {
+    splitLine: {
+      show: true,
+      lineStyle: {
+        color: '#306269',
+        opacity: 0.2,
+        type: 'dashed',
+      },
+    },
+  },
+  series: [{
+    type: 'line',
+    smooth: true,
+    itemStyle: {
+      color: '#00F4B9',
+    },
+    areaStyle: {
+      color: new graphic.LinearGradient(0, 0, 0, 1, [{
+        offset: 0,
+        color: 'rgba(0,244,185,1)',
+      }, {
+        offset: 1,
+        color: 'rgba(0,244,185, 0)',
+      }], false),
+    },
+    data: [20, 39, 35, 17, 23, 35, 46, 42, 24],
+  }],
+})
+```
+
+
 ## Unocss Local Font
 
 _2023/02/13_
